@@ -1,4 +1,4 @@
-package com.controller;
+package com.company.controller;
 
 import org.hibernate.Criteria;
 import org.hibernate.Session;
